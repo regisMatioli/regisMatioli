@@ -1,7 +1,7 @@
-REGITERA.txt
+REGITERA.bio
 =============================
 
-const name = "regisMatioli, aka 'regitera'";
+const name = "regisMatioli aka regitera";
 
 let age = 27;    
 
